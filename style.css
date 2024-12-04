@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f3f3f3;
+    margin: 0;
+    padding: 0;
+}
+
+.game-container {
+    margin: 50px auto;
+    max-width: 500px;
+}
+
+canvas {
+    background-color: #fff;
+    border: 2px solid #000;
+    display: block;
+    margin: 20px auto;
+}
+
+p {
+    font-size: 18px;
+    margin-top: 10px;
+}
